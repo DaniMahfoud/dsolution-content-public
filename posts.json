@@ -1,0 +1,23 @@
+{
+  "timezone": "Asia/Dubai",
+  "posts": [
+    {
+      "id": "post-003",
+      "title": "From Repetitive Tasks to Automated Workflows",
+      "type": "image",
+      "image_url": "",
+      "caption": "",
+      "scheduled_at": null,
+      "status": "draft"
+    },
+    {
+      "id": "post-004",
+      "title": "Your Ideas into Digital Solutions",
+      "type": "image",
+      "image_url": "",
+      "caption": "",
+      "scheduled_at": null,
+      "status": "draft"
+    }
+  ]
+}
