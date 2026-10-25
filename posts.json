@@ -18,6 +18,45 @@
       "caption": "",
       "scheduled_at": null,
       "status": "draft"
+    },
+    {
+      "id": "ds-replace-the-handoff-001",
+      "title": "Replace the handoff, not the human.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-replace-the-handoff-001.png",
+      "caption": "Most workflow friction happens between steps: a request arrives, someone forwards it, another person re-enters it, and the status gets lost.\\n\\nA well-designed automation connects the handoff, keeps the right person in control, and gives your team a clearer next step.\\n\\nWhat is the one handoff your business repeats every day? Start there.\n\n#DSolution #WorkflowAutomation #BusinessProductivity #DigitalTransformation #CustomSoftware",
+      "scheduled_at": "2026-10-25T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Connect forms, approvals, and updates into one reliable workflow.",
+      "created_at": "2026-10-25T17:54:59.754923+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 434,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.021,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
     }
   ]
 }
