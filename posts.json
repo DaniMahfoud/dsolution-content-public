@@ -55,8 +55,9 @@
         "schedule_has_timezone": true,
         "schedule_is_future": true,
         "brand_consistency": true,
-        "url_accessible": null
-      }
+        "url_accessible": true
+      },
+      "validated_at": "2026-10-25T17:56:55.197114+00:00"
     }
   ]
 }
