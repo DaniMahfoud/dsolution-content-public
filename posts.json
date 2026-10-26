@@ -58,6 +58,396 @@
         "url_accessible": true
       },
       "validated_at": "2026-10-25T17:56:55.197114+00:00"
+    },
+    {
+      "id": "ds-start-with-the-bottleneck-001",
+      "title": "Start with the bottleneck, not the app.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-start-with-the-bottleneck-001.png",
+      "caption": "Automation works best when it starts with a real bottleneck. Find the step that creates waiting, re-entry, or uncertainty. Then design a simpler path around it. The right tool comes after the process is understood. What part of your workflow slows the team down most often? Start there. #DSolution #WorkflowAutomation #BusinessProductivity #DigitalTransformation #CustomSoftware",
+      "scheduled_at": "2026-10-27T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Map the delay before you automate the task.",
+      "created_at": "2026-10-26T14:35:44.192214+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 378,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.197,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-ai-without-losing-judgment-001",
+      "title": "AI should remove friction, not judgment.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-ai-without-losing-judgment-001.png",
+      "caption": "The most useful AI workflows do not remove people from every decision. They reduce the repetitive work around the decision: sorting information, drafting a first response, or finding the next step. Keep human judgment where context matters. Where could AI give your team more time to think? #DSolution #AISolutions #WorkflowAutomation #BusinessProductivity #DigitalTransformation\n\n#CustomSoftware",
+      "scheduled_at": "2026-10-29T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Use AI for repeatable work. Keep people in important decisions.",
+      "created_at": "2026-10-26T14:35:47.526895+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 396,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.181,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-dashboard-is-not-strategy-001",
+      "title": "A dashboard is not a strategy.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-dashboard-is-not-strategy-001.png",
+      "caption": "A dashboard becomes useful when it helps someone decide what to do next. Before adding another chart, define the decision it should support, the person responsible, and the action that follows. Better visibility is valuable when it leads to better movement. Which business decision needs clearer visibility today? #DSolution #BusinessProductivity #CustomSoftware #DigitalTransformation #WorkflowAutomation",
+      "scheduled_at": "2026-10-31T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Track the decision, not just the data.",
+      "created_at": "2026-10-26T14:35:50.384318+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 405,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.157,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-when-spreadsheets-become-systems-001",
+      "title": "When spreadsheets become business infrastructure.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-when-spreadsheets-become-systems-001.png",
+      "caption": "Spreadsheets are excellent for exploring an idea. They become risky when they quietly carry approvals, customer records, deadlines, and operational decisions. That is usually a signal to clarify the process and build a system around it. What important workflow still depends on a file being updated by hand? #DSolution #CustomSoftware #WorkflowAutomation #BusinessProductivity #DigitalTransformation",
+      "scheduled_at": "2026-11-02T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "If the process lives in a spreadsheet, it may need a system.",
+      "created_at": "2026-10-26T14:35:53.402019+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 399,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.155,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-make-approvals-visible-001",
+      "title": "Make approvals visible.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-make-approvals-visible-001.png",
+      "caption": "An approval process should answer three questions quickly: who owns the decision, what happens next, and where does it stand? When those answers are hidden in messages and follow-ups, work slows down. A clear workflow makes responsibility easier to see. Which approval is hardest to track in your business? #DSolution #WorkflowAutomation #BusinessProductivity #CustomSoftware #DigitalTransformation",
+      "scheduled_at": "2026-11-04T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Every approval needs an owner, a next step, and a clear status.",
+      "created_at": "2026-10-26T14:35:57.198143+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 398,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.176,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-software-starts-with-question-001",
+      "title": "Good software starts with a clear question.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-software-starts-with-question-001.png",
+      "caption": "A feature list is not the same as a solution. Start by asking what decision, task, or customer experience the software should improve. That question keeps the build focused and gives every feature a reason to exist. What should your next digital project make easier? #DSolution #CustomSoftware #DigitalTransformation #BusinessProductivity #AISolutions\n\n#WorkflowAutomation",
+      "scheduled_at": "2026-11-06T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Define the decision before you define the feature.",
+      "created_at": "2026-10-26T14:36:01.088901+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 372,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.191,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-turn-questions-into-answers-001",
+      "title": "Turn recurring questions into useful answers.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-turn-questions-into-answers-001.png",
+      "caption": "Repeated questions are often a process signal. Capture the answer once, keep it current, and make it easy for the right people to find. With the right workflow, knowledge becomes part of daily work instead of another document nobody remembers. What question does your team answer again and again? #DSolution #AISolutions #BusinessProductivity #WorkflowAutomation #DigitalTransformation\n\n#CustomSoftware",
+      "scheduled_at": "2026-11-08T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Build one trusted answer source for the questions your team repeats.",
+      "created_at": "2026-10-26T14:36:04.057889+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 402,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.211,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-automate-the-routine-001",
+      "title": "Automation should make exceptions easier to see.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-automate-the-routine-001.png",
+      "caption": "The goal of automation is not to hide every variation. It is to handle the predictable path consistently and make exceptions visible early. That gives people fewer routine tasks and more time to resolve the situations that need judgment. Which exception keeps interrupting your normal process? #DSolution #WorkflowAutomation #AISolutions #BusinessProductivity #CustomSoftware\n\n#DigitalTransformation",
+      "scheduled_at": "2026-11-10T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Automate the routine. Surface the unusual.",
+      "created_at": "2026-10-26T14:36:06.912724+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 399,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.215,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-one-reliable-handoff-001",
+      "title": "Small workflows can unlock big capacity.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-one-reliable-handoff-001.png",
+      "caption": "You do not always need to transform the whole business at once. Improve one handoff: a request to a team, a lead to a follow-up, or an approval to an action. A small reliable workflow can remove repeated uncertainty and create a better foundation for the next improvement. Which handoff would you fix first? #DSolution #WorkflowAutomation #BusinessProductivity #DigitalTransformation #CustomSoftware",
+      "scheduled_at": "2026-11-12T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "One reliable handoff can change the whole day.",
+      "created_at": "2026-10-26T14:36:09.857828+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 399,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.164,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
+    },
+    {
+      "id": "ds-better-decisions-connected-001",
+      "title": "Digital transformation is a sequence of better decisions.",
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-better-decisions-connected-001.png",
+      "caption": "Digital transformation does not have to begin with a large platform or a long list of features. It can begin with one clearer decision, one less manual step, and one process the team can trust. Improve the next decision, then connect it to the next workflow. What is the first improvement your business can make this month? #DSolution #DigitalTransformation #CustomSoftware #WorkflowAutomation #BusinessProductivity",
+      "scheduled_at": "2026-11-14T22:00:00+04:00",
+      "status": "draft",
+      "review_status": "pending_confirmation",
+      "generated_by": "dsolution-content-agent",
+      "brand_colors": {
+        "navy": "#0B1F3B",
+        "electric_blue": "#2563EB",
+        "cyan": "#06B6D4",
+        "off_white": "#F1F5F9",
+        "ink": "#10243E",
+        "muted": "#52657D"
+      },
+      "visual_copy": "Improve one decision, then connect the next one.",
+      "created_at": "2026-10-26T14:36:12.924980+00:00",
+      "quality_checks": {
+        "valid_png": true,
+        "dimensions": [
+          1080,
+          1350
+        ],
+        "correct_dimensions": true,
+        "mode": "RGB",
+        "caption_length": 415,
+        "caption_within_limit": true,
+        "spelling_check": true,
+        "duplicate_similarity": 0.215,
+        "not_a_near_duplicate": true,
+        "schedule_has_timezone": true,
+        "schedule_is_future": true,
+        "brand_consistency": true,
+        "url_accessible": null
+      }
     }
   ]
 }
