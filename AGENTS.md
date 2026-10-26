@@ -65,7 +65,8 @@ Avoid near-duplicate content and repeated visual concepts.
 
 ## Visual design requirements
 
-Generate Instagram feed graphics at 1080 × 1350 pixels, preferably PNG.
+Generate square Instagram profile-grid graphics at 1080 × 1080 pixels,
+preferably PNG.
 
 Visuals must:
 
@@ -85,7 +86,7 @@ The supplied D Solution profile reference is authoritative for the visual
 language: deep navy, cyan/electric-blue flowing waves, high-contrast white
 type, and the supplied D mark. Use `assets/dsolution-logo.png` for generated
 templates. Posts marked `reference_locked` must preserve their supplied asset
-byte-for-byte, even when the source is not 1080x1350 PNG.
+byte-for-byte, even when the source is not 1080x1080 PNG.
 
 ## Autonomous content lifecycle
 
