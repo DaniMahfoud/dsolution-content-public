@@ -57,6 +57,10 @@ Each post must:
 6. Include a small set of relevant hashtags.
 7. Avoid emojis, fabricated statistics, exaggerated promises, and repetitive marketing phrases.
 
+Captions must use one blank line between paragraphs, one blank line before a
+single final hashtag line, and one space between hashtags. Literal `\\n`
+sequences and duplicated hashtag blocks are invalid.
+
 Avoid near-duplicate content and repeated visual concepts.
 
 ## Visual design requirements
@@ -76,6 +80,12 @@ Visuals must:
 Maintain at least three complementary reusable design templates.
 
 Consider how every graphic contributes to the overall Instagram profile grid.
+
+The supplied D Solution profile reference is authoritative for the visual
+language: deep navy, cyan/electric-blue flowing waves, high-contrast white
+type, and the supplied D mark. Use `assets/dsolution-logo.png` for generated
+templates. Posts marked `reference_locked` must preserve their supplied asset
+byte-for-byte, even when the source is not 1080x1350 PNG.
 
 ## Autonomous content lifecycle
 
