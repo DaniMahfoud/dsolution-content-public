@@ -37,9 +37,9 @@
         "schedule_has_timezone": false,
         "schedule_is_future": true,
         "brand_consistency": true,
-        "url_accessible": null
+        "url_accessible": true
       },
-      "validated_at": "2026-10-26T20:06:52.437612+00:00"
+      "validated_at": "2026-10-26T20:09:48.664857+00:00"
     },
     {
       "id": "post-003",
