@@ -107,7 +107,8 @@ Before marking a post `ready`, validate:
 
 - Unique lowercase post ID.
 - Correct JSON schema and valid caption formatting.
-- Valid image format and 1080 × 1350 dimensions.
+- Valid image format and 1080 × 1080 dimensions for generated profile-grid
+  assets. User-supplied locked references retain their original dimensions.
 - Correct spelling and readable typography.
 - Brand color and design consistency.
 - Originality against recent posts.
