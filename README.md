@@ -27,6 +27,7 @@ Use unique IDs. A `ready` post needs an HTTPS `image_url`, a non-empty
 `caption`, and a timezone-aware `scheduled_at`. Committing a `ready` entry is
 the approval step for unattended publishing.
 
-The assets directory may contain editable SVG sources, but Instagram-ready
-assets should be PNG or JPEG files with public URLs. Do not put secrets or
-private customer information in this repository.
+Generated Instagram assets must be 1080x1350 PNG files with public URLs.
+Official brand references and private review artifacts belong in the private
+automation repository, not here. Do not put secrets or private customer
+information in this repository.
