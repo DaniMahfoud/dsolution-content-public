@@ -38,6 +38,19 @@
       "layout_template": "minimal_statement",
       "visual_family": "minimal_statement",
       "selected_reference": "processes_to_growth"
+    },
+    {
+      "id": "ds-hybrid-526efb477283ab1ee957",
+      "type": "image",
+      "status": "ready",
+      "title": "One Hub. Less Friction.",
+      "caption": "Teams lose time when requests, status updates, and operational data are spread across disconnected tools.\n\nA focused internal application can bring the essential workflow into one place without forcing the business into a generic process.\n\nDesign the workspace around the decisions and handoffs your team already owns.\n\n#DSolution #CustomSoftware #WorkflowAutomation #DigitalTransformation",
+      "scheduled_at": "2026-10-28T22:39:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/770fcc34a857203cb1288491df071740bf653980/assets/ds-hybrid-526efb477283ab1ee957-42694a8cf0c6738d.png",
+      "asset_filename": "ds-hybrid-526efb477283ab1ee957-42694a8cf0c6738d.png",
+      "layout_template": "product_showcase",
+      "visual_family": "product_showcase",
+      "selected_reference": "instagram_grid_v2"
     }
   ]
 }
