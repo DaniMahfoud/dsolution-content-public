@@ -1,3 +1,17 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "ds-hybrid-04ddba1416ae1db48709",
+      "type": "image",
+      "status": "ready",
+      "title": "Onboard Clients. Without the Chase.",
+      "caption": "Client onboarding often slows down when details, approvals, and next steps live in separate places.\n\nA well-designed workflow can bring those steps together while keeping people responsible for the decisions that need context.\n\nStart by mapping the first handoff that regularly needs a follow-up.\n\n#DSolution #WorkflowAutomation #BusinessProductivity #DigitalTransformation",
+      "scheduled_at": "2026-10-28T22:09:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/d39138ea1c041ce0d777db640ffd38ed4d16ce1f/assets/ds-hybrid-04ddba1416ae1db48709-73bae6c06cf5dc1c.png",
+      "asset_filename": "ds-hybrid-04ddba1416ae1db48709-73bae6c06cf5dc1c.png",
+      "layout_template": "dark_premium",
+      "visual_family": "dark_premium",
+      "selected_reference": "approved_post"
+    }
+  ]
 }
