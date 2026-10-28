@@ -25,6 +25,19 @@
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
       "selected_reference": "ideas_to_apps"
+    },
+    {
+      "id": "ds-hybrid-2fe9d4e8e24e4272adc3",
+      "type": "image",
+      "status": "ready",
+      "title": "Clarity Before Complexity.",
+      "caption": "A new tool cannot fix an unclear problem.\n\nBefore adding software, define the delay, repeated task, or decision that needs to improve. That clarity makes the eventual solution simpler and more useful.\n\n#DSolution #DigitalTransformation #CustomSoftware #BusinessProductivity",
+      "scheduled_at": "2026-10-28T22:29:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/051877286e975699d739b28dd433ca0b1b87ae1a/assets/ds-hybrid-2fe9d4e8e24e4272adc3-ac4ff9249aa93286.png",
+      "asset_filename": "ds-hybrid-2fe9d4e8e24e4272adc3-ac4ff9249aa93286.png",
+      "layout_template": "minimal_statement",
+      "visual_family": "minimal_statement",
+      "selected_reference": "processes_to_growth"
     }
   ]
 }
