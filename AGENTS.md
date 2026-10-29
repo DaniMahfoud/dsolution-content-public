@@ -13,7 +13,8 @@ The Content Agent must prioritize content quality, brand consistency, reliabilit
 This public repository stores only:
 
 - Instagram-ready PNG/JPEG image assets.
-- Public captions, hashtags, and post metadata.
+- Public Instagram captions, optional personal LinkedIn text, hashtags, and
+  post metadata.
 - Content schedules and generation manifests.
 - Reusable public design templates and brand guidelines.
 - Automated content validation scripts and tests.
@@ -57,9 +58,15 @@ Each post must:
 6. Include a small set of relevant hashtags.
 7. Avoid emojis, fabricated statistics, exaggerated promises, and repetitive marketing phrases.
 
-Captions must use one blank line between paragraphs, one blank line before a
+Instagram captions must use one blank line between paragraphs, one blank line before a
 single final hashtag line, and one space between hashtags. Literal `\\n`
 sequences and duplicated hashtag blocks are invalid.
+
+Optional `linkedin.text` must be meaningfully different from the Instagram
+caption and suitable for a professional personal profile. LinkedIn remains a
+draft unless `enabled` is true, its channel status is `ready`, and it has a
+timezone-aware `scheduled_at`. Never store LinkedIn tokens or member identity
+credentials here.
 
 Avoid near-duplicate content and repeated visual concepts.
 
@@ -132,7 +139,7 @@ Ensure scheduling and content generation are idempotent: rerunning the agent mus
 
 ## Integration with the private publisher
 
-This repository does not directly call the Instagram API.
+This repository does not directly call the Instagram or LinkedIn API.
 
 The private automation repository is responsible for synchronizing eligible posts and publishing them.
 

@@ -11,7 +11,14 @@
       "asset_filename": "ds-hybrid-04ddba1416ae1db48709-73bae6c06cf5dc1c.png",
       "layout_template": "dark_premium",
       "visual_family": "dark_premium",
-      "selected_reference": "approved_post"
+      "selected_reference": "approved_post",
+      "linkedin": {
+        "enabled": false,
+        "status": "draft",
+        "text": "Client onboarding is often treated as a communication problem. In practice, it is usually a workflow problem.\n\nWhen intake details, approvals, and next steps live in separate places, teams spend more time chasing updates than moving the relationship forward.\n\nA focused onboarding workflow can connect those handoffs while keeping people responsible for the decisions that require context.\n\nWhich onboarding step creates the most follow-up for your team?\n\n#ClientOnboarding #WorkflowAutomation #DigitalTransformation",
+        "scheduled_at": null,
+        "alt_text": "A D Solution graphic showing a digital client onboarding workflow with approvals and next steps."
+      }
     },
     {
       "id": "ds-hybrid-e11b125c257a7dd18d8e",
@@ -24,7 +31,14 @@
       "asset_filename": "ds-hybrid-e11b125c257a7dd18d8e-99c22dfe763d5914.png",
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
-      "selected_reference": "ideas_to_apps"
+      "selected_reference": "ideas_to_apps",
+      "linkedin": {
+        "enabled": false,
+        "status": "draft",
+        "text": "More dashboards do not automatically create better decisions.\n\nThe useful work happens before the dashboard: identifying the decision, choosing the signals that matter, and removing information that creates noise without changing the outcome.\n\nTechnology should make the next action easier to understand, not simply put more numbers on a screen.\n\nWhat recurring decision in your business would benefit from a clearer view?\n\n#BusinessIntelligence #DataStrategy #DigitalTransformation",
+        "scheduled_at": null,
+        "alt_text": "A D Solution graphic showing data cards converging into a focused analytical view."
+      }
     },
     {
       "id": "ds-hybrid-2fe9d4e8e24e4272adc3",
@@ -37,7 +51,14 @@
       "asset_filename": "ds-hybrid-2fe9d4e8e24e4272adc3-ac4ff9249aa93286.png",
       "layout_template": "minimal_statement",
       "visual_family": "minimal_statement",
-      "selected_reference": "processes_to_growth"
+      "selected_reference": "processes_to_growth",
+      "linkedin": {
+        "enabled": false,
+        "status": "draft",
+        "text": "Software is most useful after the problem is clear.\n\nBefore choosing a platform or building a custom tool, define the delay, repeated task, or decision that needs to improve. Otherwise, technology can make an unclear process faster without making it better.\n\nClarity creates a smaller solution, a stronger implementation, and a result people can actually use.\n\nStart with the bottleneck, not the feature list.\n\n#CustomSoftware #ProcessImprovement #DigitalStrategy",
+        "scheduled_at": null,
+        "alt_text": "A minimal D Solution statement graphic reading Clarity Before Complexity."
+      }
     },
     {
       "id": "ds-hybrid-526efb477283ab1ee957",
@@ -50,7 +71,14 @@
       "asset_filename": "ds-hybrid-526efb477283ab1ee957-42694a8cf0c6738d.png",
       "layout_template": "product_showcase",
       "visual_family": "product_showcase",
-      "selected_reference": "instagram_grid_v2"
+      "selected_reference": "instagram_grid_v2",
+      "linkedin": {
+        "enabled": false,
+        "status": "draft",
+        "text": "Teams lose time when requests, status updates, and operational data are distributed across tools that were never designed to work together.\n\nA focused internal application can bring the essential workflow into one place without forcing the business into a generic process. The goal is not another dashboard. It is a workspace built around the decisions and handoffs the team already owns.\n\nWhere does disconnected work create the most friction in your operations?\n\n#InternalTools #CustomSoftware #OperationsManagement",
+        "scheduled_at": null,
+        "alt_text": "A D Solution product graphic showing a custom operations workspace on a laptop."
+      }
     }
   ]
 }
