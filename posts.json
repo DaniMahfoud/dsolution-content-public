@@ -92,6 +92,13 @@
       "layout_template": "dark_premium",
       "visual_family": "dark_premium",
       "selected_reference": "template_dark"
+      ,"linkedin": {
+        "enabled": true,
+        "status": "ready",
+        "text": "Automation is most valuable when it removes repetitive work without adding complexity. Start with one recurring task, define the desired outcome, and build a workflow that gives the team more time for meaningful decisions.\n\n#WorkflowAutomation #BusinessProductivity #DigitalTransformation",
+        "scheduled_at": "2026-10-29T22:05:00+04:00",
+        "alt_text": "A D Solution dark blue graphic about saving time with automation, featuring a checklist and clock icon."
+      }
     },
     {
       "id": "ds-hybrid-c2589f51f837790db16e",
@@ -105,6 +112,13 @@
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
       "selected_reference": "template_light"
+      ,"linkedin": {
+        "enabled": true,
+        "status": "ready",
+        "text": "Growth becomes easier to sustain when the underlying process is clear, repeatable, and ready to improve. Streamline one important handoff, reduce avoidable effort, and let the system support the people doing the work.\n\n#ProcessAutomation #BusinessGrowth #DigitalTransformation",
+        "scheduled_at": "2026-10-29T22:08:00+04:00",
+        "alt_text": "A D Solution light blue graphic about turning processes into growth, featuring a workflow and upward arrow icon."
+      }
     }
   ]
 }
