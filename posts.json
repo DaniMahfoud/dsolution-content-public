@@ -92,6 +92,19 @@
       "layout_template": "dark_premium",
       "visual_family": "dark_premium",
       "selected_reference": "template_dark"
+    },
+    {
+      "id": "ds-hybrid-c2589f51f837790db16e",
+      "type": "image",
+      "status": "ready",
+      "title": "Turn Processes into Growth",
+      "caption": "Turn Processes into Growth\n\nStreamline work, reduce effort, and scale with confidence.\n\n#DSolution #ProcessAutomation #BusinessGrowth",
+      "scheduled_at": "2026-10-29T21:49:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/116e31c6798475f86b627d50ab73e9b3b1a0febc/assets/ds-hybrid-c2589f51f837790db16e-9f609d95bfc338dc.png",
+      "asset_filename": "ds-hybrid-c2589f51f837790db16e-9f609d95bfc338dc.png",
+      "layout_template": "light_editorial",
+      "visual_family": "light_editorial",
+      "selected_reference": "template_light"
     }
   ]
 }
