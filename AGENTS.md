@@ -72,8 +72,8 @@ Avoid near-duplicate content and repeated visual concepts.
 
 ## Visual design requirements
 
-Generate Instagram portrait graphics at 1080 × 1350 pixels in PNG format.
-Also review the center-cropped 180 × 180 profile-grid thumbnail.
+Generate Instagram square graphics at 1080 × 1080 pixels in PNG format.
+Also review the proportionally scaled 180 × 180 profile-grid thumbnail.
 
 Visuals must:
 
@@ -93,7 +93,7 @@ The supplied D Solution profile reference is authoritative for the visual
 language: deep navy, cyan/electric-blue flowing waves, high-contrast white
 type, and the supplied D mark. Use `assets/dsolution-logo.png` for generated
 templates. Posts marked `reference_locked` must preserve their supplied asset
-byte-for-byte, even when the source is not a 1080x1350 PNG.
+byte-for-byte, even when the source is not a 1080x1080 PNG.
 
 ## Autonomous content lifecycle
 
@@ -114,7 +114,7 @@ Before marking a post `ready`, validate:
 
 - Unique lowercase post ID.
 - Correct JSON schema and valid caption formatting.
-- Valid PNG format and 1080 × 1350 dimensions for generated assets.
+- Valid PNG format and 1080 × 1080 dimensions for generated assets.
   User-supplied locked references retain their original dimensions.
 - Correct spelling and readable typography.
 - Brand color and design consistency.
