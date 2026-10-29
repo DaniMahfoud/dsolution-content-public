@@ -79,6 +79,19 @@
         "scheduled_at": null,
         "alt_text": "A D Solution product graphic showing a custom operations workspace on a laptop."
       }
+    },
+    {
+      "id": "ds-hybrid-7b661fb0b8967899c247",
+      "type": "image",
+      "status": "ready",
+      "title": "Save Time with Automation",
+      "caption": "Save Time with Automation\n\nAutomate repetitive tasks and focus on what really matters.\n\n#DSolution #WorkflowAutomation #BusinessProductivity",
+      "scheduled_at": "2026-10-29T21:44:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/604e7ea0c8b3db4aad245b901dbc1f831908a5cf/assets/ds-hybrid-7b661fb0b8967899c247-e86a2321b4542c2c.png",
+      "asset_filename": "ds-hybrid-7b661fb0b8967899c247-e86a2321b4542c2c.png",
+      "layout_template": "dark_premium",
+      "visual_family": "dark_premium",
+      "selected_reference": "template_dark"
     }
   ]
 }
