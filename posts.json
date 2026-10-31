@@ -145,6 +145,19 @@
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
       "selected_reference": "template_light"
+    },
+    {
+      "id": "ds-hybrid-fb59ac45cc5f82068e4d",
+      "type": "image",
+      "status": "ready",
+      "title": "Onboard Clients Without the Chase",
+      "caption": "Onboard Clients Without the Chase\n\nClient onboarding works better when the process is visible, repeatable, and easy to follow.\n\n#DSolution #WorkflowAutomation #BusinessProductivity #CustomSoftware",
+      "scheduled_at": "2026-10-31T15:20:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/c4c736bf7d8a93e7b05422ddf5b05100d665747c/assets/ds-hybrid-fb59ac45cc5f82068e4d-756d81eb0214351e.png",
+      "asset_filename": "ds-hybrid-fb59ac45cc5f82068e4d-756d81eb0214351e.png",
+      "layout_template": "light_editorial",
+      "visual_family": "light_editorial",
+      "selected_reference": "template_light"
     }
   ]
 }
