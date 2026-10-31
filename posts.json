@@ -15,6 +15,45 @@
       "external_asset": true,
       "visual_review": "skipped_by_user",
       "caption_review": "approved"
+    },
+    {
+      "id": "0001-make-repetitive-work-disappear",
+      "type": "image",
+      "status": "ready",
+      "title": "Make Repetitive Work Disappear",
+      "caption": "Repetitive work consumes time that could be spent on better decisions.\n\nStart with one recurring task, simplify the handoff, and let automation handle the repeatable steps.\n\n#DSolution #WorkflowAutomation #BusinessProductivity",
+      "scheduled_at": "2026-11-02T10:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/0001-make-repetitive-work-disappear.png",
+      "asset_filename": "0001-make-repetitive-work-disappear.png",
+      "layout_template": "dark_premium",
+      "visual_family": "dark_premium",
+      "selected_reference": "template_dark"
+    },
+    {
+      "id": "0002-one-source-of-truth",
+      "type": "image",
+      "status": "ready",
+      "title": "One Source of Truth",
+      "caption": "When information is scattered, decisions slow down.\n\nA connected system brings the right data, people, and next steps into one clear workflow.\n\n#DSolution #SystemImplementation #DigitalTransformation",
+      "scheduled_at": "2026-11-04T10:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/0002-one-source-of-truth.png",
+      "asset_filename": "0002-one-source-of-truth.png",
+      "layout_template": "light_editorial",
+      "visual_family": "light_editorial",
+      "selected_reference": "template_light"
+    },
+    {
+      "id": "0003-from-idea-to-working-app",
+      "type": "image",
+      "status": "ready",
+      "title": "From Idea to Working App",
+      "caption": "Good ideas become valuable when they are turned into practical tools.\n\nWe help move from concept to a working application built around the way your business operates.\n\n#DSolution #SoftwareDevelopment #DigitalSolutions",
+      "scheduled_at": "2026-11-06T10:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/0003-from-idea-to-working-app.png",
+      "asset_filename": "0003-from-idea-to-working-app.png",
+      "layout_template": "product_showcase",
+      "visual_family": "product_showcase",
+      "selected_reference": "template_dark"
     }
   ]
 }
