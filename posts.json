@@ -158,6 +158,19 @@
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
       "selected_reference": "template_light"
+    },
+    {
+      "id": "ds-hybrid-cfd0676683f72d885a15",
+      "type": "image",
+      "status": "ready",
+      "title": "Build Secure Systems with Confidence",
+      "caption": "Build Secure Systems with Confidence\n\nSecurity should support the workflow, not slow it down. Build connected systems with clear controls and confident handoffs.\n\n#DSolution #DigitalTransformation #CustomSoftware #BusinessProductivity",
+      "scheduled_at": "2026-10-31T15:20:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/44d996e074877576656ca92a66fd9f62227d0cde/assets/ds-hybrid-cfd0676683f72d885a15-cf4e962a6b64791d.png",
+      "asset_filename": "ds-hybrid-cfd0676683f72d885a15-cf4e962a6b64791d.png",
+      "layout_template": "dark_premium",
+      "visual_family": "dark_premium",
+      "selected_reference": "placeholders_dark"
     }
   ]
 }
