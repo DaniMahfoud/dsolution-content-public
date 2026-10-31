@@ -132,6 +132,19 @@
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
       "selected_reference": "placeholders_light"
+    },
+    {
+      "id": "ds-hybrid-8a11d945706dc5b952ba",
+      "type": "image",
+      "status": "ready",
+      "title": "Make Better Decisions from Your Data",
+      "caption": "Make Better Decisions from Your Data\n\nTurn scattered signals into clear next steps. Start with one recurring decision and identify the information it genuinely needs.\n\n#DSolution #BusinessProductivity #DigitalTransformation #CustomSoftware",
+      "scheduled_at": "2026-10-31T15:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/fbf2eca288e17a5cd94a7cef2ed9e1ba9b7d0299/assets/ds-hybrid-8a11d945706dc5b952ba-09f51f571785c899.png",
+      "asset_filename": "ds-hybrid-8a11d945706dc5b952ba-09f51f571785c899.png",
+      "layout_template": "light_editorial",
+      "visual_family": "light_editorial",
+      "selected_reference": "template_light"
     }
   ]
 }
