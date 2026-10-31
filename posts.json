@@ -91,8 +91,8 @@
       "asset_filename": "ds-hybrid-7b661fb0b8967899c247-e86a2321b4542c2c.png",
       "layout_template": "dark_premium",
       "visual_family": "dark_premium",
-      "selected_reference": "template_dark"
-      ,"linkedin": {
+      "selected_reference": "template_dark",
+      "linkedin": {
         "enabled": true,
         "status": "ready",
         "text": "Automation is most valuable when it removes repetitive work without adding complexity. Start with one recurring task, define the desired outcome, and build a workflow that gives the team more time for meaningful decisions.\n\n#WorkflowAutomation #BusinessProductivity #DigitalTransformation",
@@ -111,14 +111,27 @@
       "asset_filename": "ds-hybrid-c2589f51f837790db16e-9f609d95bfc338dc.png",
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
-      "selected_reference": "template_light"
-      ,"linkedin": {
+      "selected_reference": "template_light",
+      "linkedin": {
         "enabled": true,
         "status": "ready",
         "text": "Growth becomes easier to sustain when the underlying process is clear, repeatable, and ready to improve. Streamline one important handoff, reduce avoidable effort, and let the system support the people doing the work.\n\n#ProcessAutomation #BusinessGrowth #DigitalTransformation",
         "scheduled_at": "2026-10-29T22:08:00+04:00",
         "alt_text": "A D Solution light blue graphic about turning processes into growth, featuring a workflow and upward arrow icon."
       }
+    },
+    {
+      "id": "ds-hybrid-d3af54ecf342515ce877",
+      "type": "image",
+      "status": "ready",
+      "title": "Make Better Decisions from Your Data",
+      "caption": "Make Better Decisions from Your Data\n\nTurn scattered signals into clear next steps.\n\n#DSolution #BusinessProductivity #DigitalTransformation #CustomSoftware",
+      "scheduled_at": "2026-10-31T14:50:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/91d51dfc454cb0baeed274d77c5510c88f1485b4/assets/ds-hybrid-d3af54ecf342515ce877-8c013171de6c225c.png",
+      "asset_filename": "ds-hybrid-d3af54ecf342515ce877-8c013171de6c225c.png",
+      "layout_template": "light_editorial",
+      "visual_family": "light_editorial",
+      "selected_reference": "placeholders_light"
     }
   ]
 }
