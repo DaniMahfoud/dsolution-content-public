@@ -1,3 +1,20 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "ds-external-meet-d-solution-e2df4cc827f7",
+      "type": "image",
+      "status": "ready",
+      "title": "Meet D Solution",
+      "caption": "Meet D Solution.\n\nWe build digital solutions that turn ideas into real, practical outcomes.\n\nWhether you're starting from scratch or improving what already exists, we help you move from idea to a working result.\n\nHave a project in mind? Send us a message.\n\n#DSolution #SoftwareDevelopment #ProcessAutomation #DigitalSolutions #SystemImplementation #Dubai",
+      "scheduled_at": "2026-10-31T19:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/main/assets/ds-external-meet-d-solution-e2df4cc827f7.png",
+      "asset_filename": "ds-external-meet-d-solution-e2df4cc827f7.png",
+      "layout_template": "external_reference_locked",
+      "visual_family": "external_reference_locked",
+      "selected_reference": "user_supplied",
+      "external_asset": true,
+      "visual_review": "skipped_by_user",
+      "caption_review": "approved"
+    }
+  ]
 }
