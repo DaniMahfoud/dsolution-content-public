@@ -67,6 +67,19 @@
       "layout_template": "light_editorial",
       "visual_family": "light_editorial",
       "selected_reference": "placeholders_light"
+    },
+    {
+      "id": "0006-ds-automate-the-handoffs",
+      "type": "image",
+      "status": "ready",
+      "title": "Automate the Handoffs That Slow You Down",
+      "caption": "Work often slows down between people, not because the task is difficult, but because the handoff is unclear.\n\nAutomating approvals and repeatable handoffs keeps ownership visible and helps every step move forward.\n\n#DSolution #ProcessAutomation #WorkflowAutomation #BusinessProductivity",
+      "scheduled_at": "2026-11-11T10:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/611afb812ae985495d67c5c2b5074663fb58b14a/assets/0006-week2-november-2026.png",
+      "asset_filename": "0006-week2-november-2026.png",
+      "layout_template": "dark_premium",
+      "visual_family": "dark_premium",
+      "selected_reference": "placeholders_dark"
     }
   ]
 }
