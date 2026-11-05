@@ -54,8 +54,19 @@
       "layout_template": "product_showcase",
       "visual_family": "product_showcase",
       "selected_reference": "template_dark"
+    },
+    {
+      "id": "0005-ds-make-every-handoff-visible",
+      "type": "image",
+      "status": "ready",
+      "title": "Make Every Handoff Visible",
+      "caption": "Scattered tools make simple work harder to follow.\n\nWhen information, people, and next steps live in different places, progress slows down. Connecting them into a shared workflow gives your team a clearer way to move work forward.\n\n#DSolution #SystemImplementation #DigitalTransformation #WorkflowAutomation",
+      "scheduled_at": "2026-11-09T10:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/7ef603ccb75715035d8d3709a3b0852557930810/assets/0005-week2-november-2026.png",
+      "asset_filename": "0005-week2-november-2026.png",
+      "layout_template": "light_editorial",
+      "visual_family": "light_editorial",
+      "selected_reference": "placeholders_light"
     }
   ]
 }
-
-
