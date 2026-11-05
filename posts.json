@@ -80,6 +80,19 @@
       "layout_template": "dark_premium",
       "visual_family": "dark_premium",
       "selected_reference": "placeholders_dark"
+    },
+    {
+      "id": "0007-ds-build-the-tool-your-team-needs",
+      "type": "image",
+      "status": "ready",
+      "title": "Build the Tool Your Team Actually Needs",
+      "caption": "Your team does not always need another off-the-shelf tool.\n\nA practical custom application starts with how the work actually happens, then turns that workflow into a tool people can use every day.\n\n#DSolution #CustomSoftware #SoftwareDevelopment #DigitalSolutions",
+      "scheduled_at": "2026-11-13T10:00:00+04:00",
+      "image_url": "https://raw.githubusercontent.com/DaniMahfoud/dsolution-content-public/869809c22601818be432b92a1a509c33db7cb25f/assets/0007-week2-november-2026.png",
+      "asset_filename": "0007-week2-november-2026.png",
+      "layout_template": "product_showcase",
+      "visual_family": "product_showcase",
+      "selected_reference": "template_dark"
     }
   ]
 }
